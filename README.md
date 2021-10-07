@@ -9,7 +9,7 @@ I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer
 
 ## &#x1f4c8; GitHub Stats
 
-[![Tadeesha](https://github-readme-stats.vercel.app/api?username=Tadeeshanithesh&show_icons=true&theme=tokyonight)](https://github.com/hasala2002)
+[![Tadeesha](https://github-readme-stats.vercel.app/api?username=Tadeeshanithesh&show_icons=true&theme=tokyonight)](https://github.com/Tadeeshanithesh)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tadeeshanithesh&repo=my-portfolio&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/Tadeeshanithesh/my-portfolio)
 
