@@ -36,8 +36,6 @@ I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer
 
 [![Tadeesha](https://github-readme-stats.vercel.app/api?username=Tadeeshanithesh&show_icons=true&theme=tokyonight)](https://github.com/Tadeeshanithesh)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tadeeshanithesh&repo=my-portfolio&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/Tadeeshanithesh/my-portfolio)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeeshanithesh&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ##  📜  Badges and Certifications
