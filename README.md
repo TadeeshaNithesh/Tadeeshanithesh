@@ -1,11 +1,18 @@
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
-
-
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
+<a href="https://discord.gg/B92fgqXz3M">
+  <img align="left" alt="Tadeesha's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://youtube.com/channel/UCEs6Z2oo6S-m0WGlkHg_b2g">
+  <img align="left" alt="Tadeesha's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://open.spotify.com/user/939s6nnp7bcfnhxmm5u6fbol3?si=9bb4a13c155944d2">
+  <img align="left" alt="Tadeesha's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<br><br>
 I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
-
+  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=8d81c2)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
