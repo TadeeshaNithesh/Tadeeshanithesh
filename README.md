@@ -4,7 +4,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I am Tadeesha Nithesh, and I am a Little Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
+I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
 
 
 ## &#x1f4c8; GitHub Stats
