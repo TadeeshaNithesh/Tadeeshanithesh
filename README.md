@@ -10,6 +10,9 @@
 <a href="https://open.spotify.com/user/939s6nnp7bcfnhxmm5u6fbol3?si=9bb4a13c155944d2">
   <img align="left" alt="Tadeesha's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://open.spotify.com/user/939s6nnp7bcfnhxmm5u6fbol3?si=9bb4a13c155944d2">
+  <img align="left" alt="Tadeesha's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/email.svg" />
+</a>
 <br><br>
 I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer and a Graphic Designer. 🇱🇰
   
