@@ -39,11 +39,9 @@ I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeeshanithesh&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ##  📜  Badges and Certifications
-**W3schools Badges**
+**Hackerrank Badges**
 
-- C++  - ⭐⭐⭐
-- Python - ⭐⭐⭐
-- HTML - ⭐⭐⭐
-- CSS - ⭐⭐
-- JS - ⭐⭐
+- C++  - ⭐
+- Python - ⭐
+- Problem Solving - ⭐⭐⭐
 
