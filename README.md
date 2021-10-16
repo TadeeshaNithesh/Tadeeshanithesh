@@ -43,5 +43,5 @@ I am Tadeesha Nithesh, and I am a Programmer, Software Developer, Game Developer
 
 - C++  - ⭐
 - Python - ⭐
-- Problem Solving - ⭐⭐⭐
+- Problem Solving - ⭐⭐⭐⭐
 
